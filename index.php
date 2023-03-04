@@ -43,7 +43,6 @@
             if (!val2.match(regex)) {
                 alert("Text field 2 must be a number!");
             }
-            if(!val)
             return true;
     }
 </script>    
